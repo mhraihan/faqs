@@ -3,7 +3,7 @@
 client_id = "e1c3408745b978cc2ab7918adf43c039"
 name = "faqs"
 handle = "faqs-14"
-application_url = "https://tremendous-lincoln-creature-nikon.trycloudflare.com"
+application_url = "https://scholar-fork-cocktail-dating.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://tremendous-lincoln-creature-nikon.trycloudflare.com/auth/callback",
-  "https://tremendous-lincoln-creature-nikon.trycloudflare.com/auth/shopify/callback",
-  "https://tremendous-lincoln-creature-nikon.trycloudflare.com/api/auth/callback"
+  "https://scholar-fork-cocktail-dating.trycloudflare.com/auth/callback",
+  "https://scholar-fork-cocktail-dating.trycloudflare.com/auth/shopify/callback",
+  "https://scholar-fork-cocktail-dating.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
